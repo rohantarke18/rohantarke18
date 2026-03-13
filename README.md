@@ -15,8 +15,7 @@ Always open to learning, collaboration, and new opportunities to grow.
 </td>
 
 <td width="40%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-</td>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" /></td>
 
 </tr>
 </table>
