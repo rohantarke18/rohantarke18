@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&speed=70&color=FF6F00&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;AI+Enthusiast;Full+Stack+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=250&speed=70&color=FF6F00&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;AI+Enthusiast;Full+Stack+Developer;Problem+Solver" />
 </p>
 <hr style="border:0.5px solid #FFA500; width:80%;">
 
