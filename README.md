@@ -1,19 +1,20 @@
-<h1 align="center">
-  Hi 👋, I'm Rohan Tarke
+<div align="center" style="border:1px solid #30363d; border-radius:10px; padding:25px; background-color:#0d1117;">
+
+<h1>
+  Hi, I'm Rohan Tarke 👋
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+Enthusiast;Full+Stack+Developer;Problem+Solver" />
-  </a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+Enthusiast;Full+Stack+Developer;Problem+Solver" />
 </p>
 
-
-<h2>🚀 About Me</h2>
+<hr style="border:0.5px solid #30363d; width:80%;">
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" align="left">
+
+<h2>🚀 About Me</h2>
 
 I am a Computer Science undergraduate passionate about building efficient software solutions and exploring AI-powered technologies.
 
@@ -31,3 +32,5 @@ Always open to learning, collaboration, and new opportunities to grow.
 
 </tr>
 </table>
+
+</div>
