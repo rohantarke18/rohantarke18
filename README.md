@@ -4,10 +4,9 @@
   Hi, I'm Rohan Tarke
 </h1>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+Enthusiast;Full+Stack+Developer;Problem+Solver" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+Enthusiast;Full+Stack+Developer;Problem+Solver" />
 </p>
-
 <hr style="border:0.5px solid #FFA500; width:80%;">
 
 <table>
