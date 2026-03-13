@@ -1,14 +1,14 @@
 <div align="center" style="border:1px solid #30363d; border-radius:10px; padding:25px; background-color:#0d1117;">
 
 <h1>
-  Hi, I'm Rohan Tarke 👋
+  Hi, I'm Rohan Tarke
 </h1>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+Enthusiast;Full+Stack+Developer;Problem+Solver" />
 </p>
 
-<hr style="border:0.5px solid #30363d; width:80%;">
+<hr style="border:0.5px solid #FFA500; width:80%;">
 
 <table>
 <tr>
