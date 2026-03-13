@@ -1,16 +1,22 @@
-## Hi there 👋
+<h2>🚀 About Me</h2>
 
-<!--
-**rohantarke18/rohantarke18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="60%">
 
-Here are some ideas to get you started:
+I am a Computer Science undergraduate passionate about building efficient software solutions and exploring AI-powered technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems, working on innovative projects, and continuously improving my technical skills.
+
+Currently exploring artificial intelligence and full-stack development while strengthening my core programming fundamentals.
+
+Always open to learning, collaboration, and new opportunities to grow.
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+
+</tr>
+</table>
