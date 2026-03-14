@@ -46,51 +46,43 @@ Always open to learning, collaboration, and new opportunities to grow.
 
 <!-- ================= TECH STACK SECTION ================= -->
 
+<!-- ================= TECH STACK SECTION ================= -->
+
+<div style="border:1px solid #30363d; padding:25px; border-radius:6px; background-color:#0d1117;">
+
 <h2 align="left">💻 Tech Stack</h2>
 
-<hr style="border:0.5px solid #30363d; width:100%;">
+<hr style="border:0.5px solid #30363d; width:100%; margin-bottom:20px;">
 
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top" align="left">
+<!-- LEFT SIDE -->
+<td width="50%" valign="top" style="padding-right:30px; border-right:1px solid #30363d;">
 
 <h3>Frontend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="55"/>
-  <img src="https://skillicons.dev/icons?i=css" height="55"/>
-  <img src="https://skillicons.dev/icons?i=react" height="55"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
-  <img src="https://skillicons.dev/icons?i=materialui" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,materialui" />
 </p>
 
 <h3>Backend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-  <img src="https://skillicons.dev/icons?i=express" height="55"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 </td>
 
-<td width="50%" valign="top" align="left">
+<!-- RIGHT SIDE -->
+<td width="50%" valign="top" style="padding-left:30px;">
 
 <h3>Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=c" height="55"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="55"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="55"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
 </p>
 
-<h3>Tools & Databases</h3>
+<h3>Tools & Database</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="55"/>
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="55"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,mongodb" />
 </p>
 
 </td>
