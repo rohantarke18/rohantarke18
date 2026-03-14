@@ -31,36 +31,53 @@ Always open to learning, collaboration, and new opportunities to grow.
 
 <hr style="border:0.5px solid #30363d; width:100%;">
 
-<h3 align="center">Languages</h3>
-<p align="center">
+<table width="100%">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=cpp" height="60" />
-<img src="https://skillicons.dev/icons?i=c" height="60" />
-<img src="https://skillicons.dev/icons?i=python" height="60" />
-<img src="https://skillicons.dev/icons?i=javascript" height="60" />
+<td width="50%" valign="top">
 
+<h3>Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="60"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
+  <img src="https://skillicons.dev/icons?i=materialui" height="60"/>
 </p>
 
-<h3 align="center">Full Stack & Libraries</h3>
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="60" />
-<img src="https://skillicons.dev/icons?i=express" height="60" />
-<img src="https://skillicons.dev/icons?i=react" height="60" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-<img src="https://skillicons.dev/icons?i=materialui" height="60" />
-
+<h3>Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
+  <img src="https://skillicons.dev/icons?i=express" height="60"/>
 </p>
 
-<h3 align="center">Tools</h3>
-<p align="center">
+</td>
 
-<img src="https://skillicons.dev/icons?i=git" height="60" />
-<img src="https://skillicons.dev/icons?i=github" height="60" />
-<img src="https://skillicons.dev/icons?i=vscode" height="60" />
-<img src="https://skillicons.dev/icons?i=vercel" height="60" />
+<td width="50%" valign="top">
 
+<h3>Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=c" height="60"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="60"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="60"/>
 </p>
+
+<h3>Tools & Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+</p>
+
+</td>
+
+</tr>
+</table>
 <td width="40%">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 </td>
