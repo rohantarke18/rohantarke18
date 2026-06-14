@@ -148,16 +148,6 @@
 
 ---
 
-## 💬 Quote I Follow
-
-<div align="center">
-
-"First, solve the problem. Then, write the code."
-
-— John Johnson
-
-</div>
-
 ---
 
 ## 🙌 Thanks For Visiting
@@ -173,7 +163,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20&height=120&section=footer" />
 
 </div>
-
-### ⭐ If you like my work, consider starring my repositories!
-
-### Built with ❤️ by Rohan Tarke
