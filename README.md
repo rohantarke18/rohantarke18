@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rohantarke18/rohantarke18/main/banner.png" alt="Rohan Tarke Banner" width="100%" />
+</div>
+
+<br>
 # Hi there 👋, I'm Rohan Tarke
 
 <div align="center">
