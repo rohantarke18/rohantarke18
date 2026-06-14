@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 🚀 Full Stack Developer | Problem Solver | CSE Engineer
+<h1>🚀 Full Stack Developer | CSE Engineer | Problem Solver</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Data+Science+Learner;Always+Building+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Data+Science+Learner;Building+AI-Powered+Solutions;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://rohan-tarke.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -34,28 +34,18 @@
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
 ## 👤 About Me
 
 ```yaml
-> B.Tech Computer Science Engineer passionate about building scalable software.
-> Working with MERN Stack, AI-powered applications, and modern web technologies.
-> Exploring Data Science, Machine Learning, and Cloud-based solutions.
-> Focused on problem-solving, clean code, and continuous learning.
+> B.Tech Computer Science Engineer passionate about software development.
+> Building scalable web applications using MERN Stack.
+> Exploring Data Science, AI, and Cloud Technologies.
+> Focused on problem solving, clean code, and continuous learning.
 ```
-
----
-
-## 📊 GitHub Stats Banner
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rohantarke18&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
 
 ---
 
@@ -74,23 +64,25 @@
 | Category            | Technologies                                                                                              |
 | ------------------- | --------------------------------------------------------------------------------------------------------- |
 | **Languages**       | <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,r,mysql" />                                |
-| **Frontend**        | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,materialui" />                           |
+| **Frontend**        | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />                                      |
 | **Backend & Tools** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,vercel" />        |
 | **Core Concepts**   | Data Structures & Algorithms • Object-Oriented Programming • Operating Systems • DBMS • Computer Networks |
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Statistics
 
-| Project                                                 | Tech Stack                                                                                                                                                                                                                                | Description                                                                                                                             |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 🐄 **[Rescue Track](https://github.com/rohantarke18)**  | ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb) | AI-powered cattle rescue platform with location tracking and injury reporting. **Reduced emergency response coordination time by 40%.** |
-| 🌾 **[Project Kisan](https://github.com/rohantarke18)** | ![Gemini](https://img.shields.io/badge/Gemini-AI-blue?style=flat) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase)                                                                                     | Smart farming assistant providing crop diagnosis and scheme guidance. **Enabled instant multilingual support for farmers.**             |
-| 🧩 **[CodeBreaker](https://github.com/rohantarke18)**   | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql)                                                                                           | Interactive logic puzzle game for coding enthusiasts. **Achieved sub-50ms puzzle validation performance.**                              |
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohantarke18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohantarke18&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity Summary
 
 <div align="center">
 
@@ -100,21 +92,23 @@
 
 </div>
 
-<br>
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohantarke18&hide_border=true&background=0d001a&ring=ff6fd8&fire=f97316&currStreakLabel=ff6fd8&sideLabels=a855f7&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohantarke18&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohantarke18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3BDBF7&line=3BDBF7&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohantarke18&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -122,26 +116,64 @@
 
 ## 🐍 Contribution Snake
 
+> ⚠️ To display the snake animation, create the GitHub Action workflow first.
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohantarke18/rohantarke18/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/rohantarke18/rohantarke18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
 ---
 
-## 💡 Thanks for Visiting
+## 💻 Development Environment
 
-|                                                                                                                                                                                                                                          |                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!;Drop+a+Star+⭐;Happy+Coding+🚀" /> | <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,nodejs,mongodb,react,tailwind" />
+
+</div>
+
+---
+
+## 🚀 Currently Learning
+
+```text
+📚 Data Science
+🤖 Artificial Intelligence
+☁️ Cloud Computing
+⚡ Advanced MERN Stack Development
+🧠 Data Structures & Algorithms
+```
+
+---
+
+## 💬 Quote I Follow
+
+<div align="center">
+
+"First, solve the problem. Then, write the code."
+
+— John Johnson
+
+</div>
+
+---
+
+## 🙌 Thanks For Visiting
+
+| Message                                                                                                                                                                                                                                 | Coding Life                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=500&height=80&lines=Thanks+for+visiting!;Drop+a+Star+⭐;Happy+Coding+🚀" /> | <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> |
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20&height=120&section=footer" />
 
 </div>
 
-### ⭐ If you like my work, consider starring my repos! Built with ❤️ by Rohan Tarke
+### ⭐ If you like my work, consider starring my repositories!
+
+### Built with ❤️ by Rohan Tarke
