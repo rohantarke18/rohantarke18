@@ -3,17 +3,6 @@
 </div>
 
 <br>
-# Hi there 👋, I'm Rohan Tarke
-
-<div align="center">
-
-# 🚀 Full Stack Developer | CSE Engineer | Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Data+Science+Learner;Building+AI-Powered+Solutions;Always+Learning+New+Things" alt="Typing SVG" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
