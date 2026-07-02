@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<a href="https://portfolio-three-gilt-sy4qvmkg5p.vercel.app/">
+<a href="https://rohantarke-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
