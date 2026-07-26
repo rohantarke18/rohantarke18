@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rohantarke18/rohantarke18/main/banner1.png" alt="Rohan Tarke Banner" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohantarke18/rohantarke18/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohantarke18/rohantarke18/main/light.svg">
+    <img alt="Rohan Tarke — Frontend Engineer · Full Stack Developer · Open Source Contributor" src="https://raw.githubusercontent.com/rohantarke18/rohantarke18/main/dark.svg" width="100%">
+  </picture>
 </div>
-
 
 <br>
 
@@ -21,7 +24,6 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
 <a href="https://leetcode.com/u/rohantarke18/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
@@ -35,12 +37,12 @@
 
 ## 👤 About Me
 
-```yaml
+\`\`\`yaml
 > B.Tech Computer Science Engineer passionate about software development.
-> Building scalable web applications using MERN Stack.
+> Building scalable web applications using the MERN Stack.
 > Exploring Data Science, Artificial Intelligence, and Cloud Technologies.
 > Focused on problem solving, clean code, and continuous learning.
-```
+\`\`\`
 
 ---
 
@@ -131,13 +133,13 @@
 
 ## 🚀 Currently Learning
 
-```text
+\`\`\`text
 📚 Data Science
 🤖 Artificial Intelligence
 ☁️ Cloud Computing
 ⚡ Advanced MERN Stack Development
 🧠 Data Structures & Algorithms
-```
+\`\`\`
 
 ---
 
