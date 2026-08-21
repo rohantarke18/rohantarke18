@@ -45,7 +45,7 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=rohantarke18&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
+        src="[https://github-stats-extended.vercel.app/api?username=rohantarke18&show_icons=true&count_private=true&theme=tokyonight&hide_border=true](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohantarke18&theme=2077)"
         alt="GitHub Stats"
         width="100%"
       />
