@@ -45,14 +45,14 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=rohantarke18&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
+        src="https://github-stats-extended.vercel.app/api?username=rohantarke18&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
         alt="GitHub Stats"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rohantarke18&theme=tokyonight&hide_border=true"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=rohantarke18&theme=tokyonight&hide_border=true"
         alt="GitHub Streak"
         width="100%"
       />
